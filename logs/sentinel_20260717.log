@@ -1,0 +1,82 @@
+2026-07-17 20:42:30 | INFO | ============================================================
+2026-07-17 20:42:30 | INFO | SentinelAI v1.0.0
+2026-07-17 20:42:30 | INFO | Starting SentinelAI...
+2026-07-17 20:42:30 | INFO | Configuration loaded successfully.
+2026-07-17 20:42:30 | INFO | ============================================================
+2026-07-17 20:52:54 | INFO | ============================================================
+2026-07-17 20:52:54 | INFO | SentinelAI 1.0.0
+2026-07-17 20:52:54 | INFO | Database Initialized
+2026-07-17 20:52:54 | INFO | Configuration Loaded
+2026-07-17 20:52:54 | INFO | SentinelAI Started
+2026-07-17 20:52:54 | INFO | ============================================================
+2026-07-17 21:03:47 | INFO | ============================================================
+2026-07-17 21:03:47 | INFO | SentinelAI 1.0.0
+2026-07-17 21:03:47 | INFO | Starting SentinelAI
+2026-07-17 21:03:47 | INFO | ============================================================
+2026-07-17 21:03:47 | INFO | [SYSTEM] SentinelAI Started
+2026-07-17 21:37:03 | INFO | [SYSTEM] SentinelAI Started
+2026-07-17 21:37:03 | INFO | [SYSTEM] Windows Monitor Started
+2026-07-17 21:37:03 | INFO | ============================================================
+2026-07-17 21:37:03 | INFO | SentinelAI 1.0.0
+2026-07-17 21:37:03 | INFO | Starting SentinelAI
+2026-07-17 21:37:03 | INFO | ============================================================
+2026-07-17 21:37:03 | INFO | [SYSTEM] SentinelAI Started
+2026-07-17 21:40:43 | INFO | [SYSTEM] SentinelAI Started
+2026-07-17 21:40:44 | INFO | [SYSTEM] Windows Monitor Started
+2026-07-17 21:40:44 | INFO | [LOGIN] User Logged In
+2026-07-17 21:40:44 | INFO | ============================================================
+2026-07-17 21:40:44 | INFO | SentinelAI 1.0.0
+2026-07-17 21:40:44 | INFO | Starting SentinelAI
+2026-07-17 21:40:44 | INFO | ============================================================
+2026-07-17 21:40:44 | INFO | [SYSTEM] SentinelAI Started
+2026-07-17 21:49:59 | INFO | [SYSTEM] SentinelAI Started
+2026-07-17 21:49:59 | INFO | [SYSTEM] Windows Monitor Started
+2026-07-17 21:49:59 | INFO | [LOGIN] User Logged In
+2026-07-17 21:49:59 | INFO | [USB] USB Device Detected
+2026-07-17 21:49:59 | INFO | [USB] USB Device Detected
+2026-07-17 21:49:59 | INFO | [USB] USB Device Detected
+2026-07-17 21:49:59 | INFO | ============================================================
+2026-07-17 21:49:59 | INFO | SentinelAI 1.0.0
+2026-07-17 21:49:59 | INFO | Starting SentinelAI
+2026-07-17 21:49:59 | INFO | ============================================================
+2026-07-17 22:14:26 | INFO | ============================================================
+2026-07-17 22:14:26 | INFO | SentinelAI 1.0.0
+2026-07-17 22:14:26 | INFO | Starting SentinelAI
+2026-07-17 22:14:26 | INFO | ============================================================
+2026-07-17 22:14:26 | INFO | [SYSTEM] SentinelAI Started
+2026-07-17 22:14:26 | INFO | Starting Monitor Manager...
+2026-07-17 22:14:26 | INFO | [SYSTEM] Windows Monitor Started
+2026-07-17 22:14:26 | INFO | [LOGIN] User Logged In
+2026-07-17 22:14:26 | INFO | [USB] USB Device Detected
+2026-07-17 22:14:26 | INFO | [USB] USB Device Detected
+2026-07-17 22:14:26 | INFO | [USB] USB Device Detected
+2026-07-17 22:14:26 | INFO | All monitors started successfully.
+2026-07-17 22:14:26 | INFO | Monitor Manager is running.
+2026-07-17 22:33:34 | INFO | Monitor Manager stopped.
+2026-07-17 22:33:52 | INFO | ============================================================
+2026-07-17 22:33:52 | INFO | SentinelAI 1.0.0
+2026-07-17 22:33:52 | INFO | Starting SentinelAI
+2026-07-17 22:33:52 | INFO | ============================================================
+2026-07-17 22:33:52 | INFO | [SYSTEM] SentinelAI Started
+2026-07-17 22:33:52 | INFO | Starting Monitor Manager...
+2026-07-17 22:33:52 | INFO | [SYSTEM] Windows Monitor Started
+2026-07-17 22:33:52 | INFO | [LOGIN] User Logged In
+2026-07-17 22:33:52 | INFO | [USB] USB Device Detected
+2026-07-17 22:33:52 | INFO | [USB] USB Device Detected
+2026-07-17 22:33:52 | INFO | [USB] USB Device Detected
+2026-07-17 22:33:52 | INFO | All monitors started successfully.
+2026-07-17 22:33:52 | INFO | Monitor Manager is running.
+2026-07-17 22:43:44 | INFO | Monitor Manager stopped.
+2026-07-17 22:44:40 | INFO | ============================================================
+2026-07-17 22:44:40 | INFO | SentinelAI 1.0.0
+2026-07-17 22:44:40 | INFO | Starting SentinelAI
+2026-07-17 22:44:40 | INFO | ============================================================
+2026-07-17 22:44:40 | INFO | [SYSTEM] SentinelAI Started
+2026-07-17 22:44:40 | INFO | Starting Monitor Manager...
+2026-07-17 22:44:40 | INFO | [SYSTEM] Windows Monitor Started
+2026-07-17 22:44:40 | INFO | [LOGIN] User Logged In
+2026-07-17 22:44:40 | INFO | [USB] USB Device Detected
+2026-07-17 22:44:40 | INFO | [USB] USB Device Detected
+2026-07-17 22:44:40 | INFO | [USB] USB Device Detected
+2026-07-17 22:44:40 | INFO | All monitors started successfully.
+2026-07-17 22:44:40 | INFO | Monitor Manager is running.

@@ -1,0 +1,11 @@
+{
+    "app_name": "SentinelAI",
+    "version": "1.0.0",
+    "ntfy_topic": "Suriya-Laptop",
+    "offline_queue": true,
+    "capture_webcam": true,
+    "capture_screenshot": false,
+    "usb_monitor": true,
+    "wifi_monitor": true,
+    "debug": false
+}

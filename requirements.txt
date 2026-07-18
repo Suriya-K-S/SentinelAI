@@ -1,0 +1,14 @@
+pywin32
+psutil
+watchdog
+requests
+opencv-python
+Pillow
+pystray
+python-dotenv
+pydantic
+sqlalchemy
+alembic
+rich
+loguru
+wmi
